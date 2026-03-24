@@ -13,7 +13,7 @@ Computer Science student at the University of Delaware Honors College interested
 
 ---
 
-## 🔨 Featured Project
+## Featured Project
 
 ### Hooked? — AI Phishing Detection Chrome Extension
 A hackathon-built Chrome extension that analyzes email content using AI to detect phishing attempts and warn users in real time.
