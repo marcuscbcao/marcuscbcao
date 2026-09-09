@@ -9,7 +9,7 @@ Computer Science student at the University of Delaware Honors College interested
 - Computer Science student — University of Delaware (Honors Program)
 - Interested in AI applications and cybersecurity
 - Hackathon participant
-- Currently learning Machine Organization and React
+- Currently learning Parallel Computing and Operating Systems
 
 ---
 
