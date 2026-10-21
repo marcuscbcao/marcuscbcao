@@ -1,38 +1,38 @@
 # Hi, I'm Marcus
 
-Computer Science student at the University of Delaware Honors College interested in software development, cybersecurity, and building practical tools that solve real-world problems.
+Computer Science student at the University of Delaware Honors College interested in software development, cybersecurity, AI safety, and building practical tools that solve real-world problems.
 
 ---
 
 ## About Me
 
 - Computer Science student — University of Delaware (Honors Program)
-- Interested in AI applications and cybersecurity
-- DoveChat (AI Safety & HCI) | AI Phishing Detection
+- Undergraduate Researcher at Sensify Lab (DoveChat)
+- Interested in AI safety, backend systems, and cybersecurity
 - Hackathon participant
 - Currently learning Parallel Computing and Operating Systems
 
 ---
 
-## Key Projects and Research
+## Featured Projects & Research
 
-### Sensify Lab: DoveChat — AI Mental Health Support & Safety Guardrails
-*An AI-powered mobile application designed to assist adults with ADHD with focus, organization, and daily routines, built at the intersection of HCI, AI, and mental health technology.*
+### DoveChat — AI Mental Health Support & Safety Guardrails
+An AI-powered mobile app designed to assist adults with ADHD, built at the intersection of HCI, AI, and mental health technology (Sensify Lab).
 
-* **AI Safety Architecture:** Engineered real-time safety guardrail endpoints (Python, FastAPI) using NLP and ML models to detect acute crisis and suicidal intent before LLM response generation.
-* **Large-Scale Data Pipeline:** Built memory-efficient streaming evaluation pipelines to benchmark crisis classification models across 1.1M+ records, tracking Precision, Recall, and F1 metrics.
-* **LLM Demographic Research:** Co-authored research analyzing gender bias and tone variance in LLMs during sensitive support interactions.
+**My Contributions**
+- Engineered real-time safety guardrail endpoints (FastAPI, Python) using NLP and ML models to detect acute crisis intent
+- Built memory-efficient streaming evaluation pipelines to benchmark classification models across 1.1M+ records (tracking Precision, Recall, F1)
+- Co-authored research analyzing gender bias and response variance in LLMs during sensitive support interactions
 
-[Sensify Lab](https://sensifylab.cis.udel.edu/projects.html)
-
+---
 
 ### Hooked? — AI Phishing Detection Chrome Extension
 A hackathon-built Chrome extension that analyzes email content using AI to detect phishing attempts and warn users in real time.
 
 **My Contributions**
-- Frontend implementation
-- Designed phishing warning notification system
-- Implemented email content scanning logic
+- Frontend user interface implementation using JavaScript, HTML, and CSS
+- Designed real-time phishing warning notification system
+- Implemented email content scanning logic using the Chrome Extensions API
 
 [View Project Repository](https://github.com/marcuscbcao/Hooked-)
 
@@ -41,10 +41,17 @@ A hackathon-built Chrome extension that analyzes email content using AI to detec
 ## Technical Skills
 
 **Languages**
-- Java
 - Python
+- Java
 - C
 - JavaScript
+- SQL
+
+**Frameworks & Libraries**
+- FastAPI
+- PyTorch
+- scikit-learn
+- REST APIs
 
 **Tools & Technologies**
 - Git & GitHub
@@ -57,9 +64,10 @@ A hackathon-built Chrome extension that analyzes email content using AI to detec
 
 ## Current Focus
 
-- Software Engineering fundamentals
-- Involving myself in research projects
-- Preparing for software engineering internships
+- AI Safety Guardrails & Natural Language Processing
+- Software Engineering fundamentals & Systems Programming
+- Advancing research projects at Sensify Lab
+- Preparing for software engineering and AI/ML internships
 
 ---
 
