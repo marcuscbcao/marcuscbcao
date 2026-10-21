@@ -13,7 +13,17 @@ Computer Science student at the University of Delaware Honors College interested
 
 ---
 
-## Featured Project
+## Key Projects and Research
+
+### Sensify Lab: DoveChat — AI Mental Health Support & Safety Guardrails
+*An AI-powered mobile application designed to assist adults with ADHD with focus, organization, and daily routines, built at the intersection of HCI, AI, and mental health technology.*
+
+* **AI Safety Architecture:** Engineered real-time safety guardrail endpoints (Python, FastAPI) using NLP and ML models to detect acute crisis and suicidal intent before LLM response generation.
+* **Large-Scale Data Pipeline:** Built memory-efficient streaming evaluation pipelines to benchmark crisis classification models across 1.1M+ records, tracking Precision, Recall, and F1 metrics.
+* **LLM Demographic Research:** Co-authored research analyzing gender bias and tone variance in LLMs during sensitive support interactions.
+
+[Sensify Lab](https://sensifylab.cis.udel.edu/projects.html)
+
 
 ### Hooked? — AI Phishing Detection Chrome Extension
 A hackathon-built Chrome extension that analyzes email content using AI to detect phishing attempts and warn users in real time.
@@ -46,9 +56,8 @@ A hackathon-built Chrome extension that analyzes email content using AI to detec
 
 ## Current Focus
 
-- Data Structures & Algorithms
 - Software Engineering fundamentals
-- Building portfolio projects
+- Involving myself in research projects
 - Preparing for software engineering internships
 
 ---
