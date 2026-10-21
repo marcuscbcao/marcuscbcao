@@ -24,6 +24,8 @@ An AI-powered mobile app designed to assist adults with ADHD, built at the inter
 - Built memory-efficient streaming evaluation pipelines to benchmark classification models across 1.1M+ records (tracking Precision, Recall, F1)
 - Co-authored research analyzing gender bias and response variance in LLMs during sensitive support interactions
 
+[View Sensify Lab's Projects](https://sensifylab.cis.udel.edu/projects.html)
+
 ---
 
 ### Hooked? — AI Phishing Detection Chrome Extension
