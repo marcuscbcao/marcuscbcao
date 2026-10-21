@@ -8,6 +8,7 @@ Computer Science student at the University of Delaware Honors College interested
 
 - Computer Science student — University of Delaware (Honors Program)
 - Interested in AI applications and cybersecurity
+- DoveChat (AI Safety & HCI) | AI Phishing Detection
 - Hackathon participant
 - Currently learning Parallel Computing and Operating Systems
 
